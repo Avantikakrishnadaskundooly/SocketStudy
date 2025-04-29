@@ -1,4 +1,11 @@
-# Ex.No:1a  			Study of Socket Programming
+# Ex.No:1a  	Study of Socket Programming
+
+```
+developed by: Avantika Krishnadas Kundooly
+Reg no: 212224040040
+
+```
+
 
 ## Aim: 
 To perform a study on Socket Programming
